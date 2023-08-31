@@ -22,7 +22,7 @@ lastpage: 266
 page: 251-266
 order: 251
 cycles: false
-bibtex_author: Javanmardi, Alireza and Sale, Yusuf and Hofman, Paul and H"ullermeier,
+bibtex_author: Javanmardi, Alireza and Sale, Yusuf and Hofman, Paul and H\"ullermeier,
   Eyke
 author:
 - given: Alireza
@@ -32,7 +32,7 @@ author:
 - given: Paul
   family: Hofman
 - given: Eyke
-  family: H"ullermeier
+  family: Hüllermeier
 date: 2023-08-17
 address:
 container-title: "Proceedings of the Twelfth Symposium on Conformal\r and Probabilistic
