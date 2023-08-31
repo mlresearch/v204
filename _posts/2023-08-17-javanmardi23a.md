@@ -22,7 +22,7 @@ lastpage: 266
 page: 251-266
 order: 251
 cycles: false
-bibtex_author: Javanmardi, Alireza and Sale, Yusuf and Hofman, Paul and Hüllermeier,
+bibtex_author: Javanmardi, Alireza and Sale, Yusuf and Hofman, Paul and H\"ullermeier,
   Eyke
 author:
 - given: Alireza
