@@ -7,11 +7,11 @@ abstract: "When building recommendation systems, we seek to\r output a helpful s
   taking its predictions at face value\r gives no guarantee that the user-facing output
   is\r reliable. Building from a pre-trained ranking model,\r we show how to return
   a set of items that is\r rigorously guaranteed to contain mostly good\r items. Our
-  procedure endows any ranking model with\r rigorous \fnite-sample control of the
+  procedure endows any ranking model with\r rigorous finite-sample control of the
   false\r discovery rate (FDR), regardless of the (unknown)\r data distribution. Moreover,
   our calibration\r algorithm enables the easy and principled\r integration of multiple
   objectives in recommender\r systems. As an example, we show how to optimize for\r
-  recommendation diversity subject to a user-speci\fed\r level of FDR control, circumventing
+  recommendation diversity subject to a user-specified\r level of FDR control, circumventing
   the need to\r specify ad hoc weights of a diversity loss against\r an accuracy loss.
   Throughout, we focus on the\r problem of learning to rank a set of possible\r recommendations,
   evaluating our methods on the\r Yahoo! Learning to Rank and MSMarco datasets."
